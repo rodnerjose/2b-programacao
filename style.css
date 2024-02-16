@@ -2,4 +2,17 @@
     background-color:blue ;
     color:rgb(55, 149, 231) ;
     display: flex;
-    justify-contett: space-around;rr
+    justify-contett: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem {
+    width: 20%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
