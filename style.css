@@ -1,4 +1,5 @@
-header {
+.cabecalho {
     background-color:blue ;
     color:rgb(55, 149, 231) ;
-    
+    display: flex;
+    justify-contett: space-around;rr
