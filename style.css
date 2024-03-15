@@ -1,50 +1,46 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,700&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap&#39;);
 
 * {
-    padding: 0;
-    margin: 0;
+padding: 0;
+margin: 0;
 }
 
-    body {
- font-family:"Poppins";
 .cabecalho {
-
-}
-    background-color:blue ;
-    color:rgb(55, 149, 231) ;
-    display: flex;
-    justify-contett: space-around;
-    align-items: center;
-    padding: 24px 0;
+background-color: #383D58;
+color: #FFFFFF;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
 }
 
 .cabecalho-imagem {
-    width: 20%;
+width: 20%;
 }
 
 .cabecalho-lista-item{
-    display: inline-block;
-    margin: 0 16px;
-    font-size: 24px;
+display: inline-block;
+margin: 0 16px;
+font-size: 24px;
 }
 
 .escola-imagem {
-    width: 25%;
+width: 25%;
 }
+
 .escola {
-    background-image: linear-gradient(#383D58,#607538);
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px 0;
-    }
-    
-    .escola-titulo{
-    padding: 24px 0;
-    }
-    
-    .conteudo{
-    width:35%;
-    }
-    
+background-image: linear-gradient(#383D58,#607538);
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
+}
+
+.escola-titulo{
+padding: 24px 0;
+}
+
+.conteudo{
+width:35%;
+}
